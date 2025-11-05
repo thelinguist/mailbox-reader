@@ -9,7 +9,7 @@ Very simple string matching for now, based on the subject line of the email, via
 ```
 EMAIL_ADDRESS=your_email_address
 ```
-3. Run `python3 email_job_application_tracking.py` in the terminal
+3. Run `uv run src/email_job_application_tracking.py` in the terminal
 
 # Future
 Stages:
